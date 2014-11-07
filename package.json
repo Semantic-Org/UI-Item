@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-item",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 5e21f3b68867d4926f4bcd6b7654b65506a0ae97
   "title": "Semantic UI - Item",
   "description": "Single component release of item",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 5e21f3b68867d4926f4bcd6b7654b65506a0ae97
   "devDependencies": {}
 }

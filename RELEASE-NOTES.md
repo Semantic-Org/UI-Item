@@ -1,7 +1,7 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **List** - List item selectors are now more strict, list items must be immediate children of ``ui list`` or ``ui list list``
-- **Item** - Items have now been renamed "card" to allow for a more generic item list that does not use a "card" style. Some 'card' view content has been slightly adjusted. Please refer to documentation
+- **Item** - 0.x.x's UI card has been adjusted heavily. Vertically listed content should use ``ui item`` while floated grouped content should continue to use ``ui card``. Some 'card' view content has been slightly adjusted. Please refer to documentation
 - **Item** - Items now have a horizontal list view for content lists
 
 ### Version 0.15.0 - Mar 14, 2014

@@ -145,7 +145,7 @@
      Floated
 ---------------*/
 
-.ui.items > .item .left.floated {
+.ui.items > .item [class*="left floated"] {
   float: left;
 }
 .ui.items > .item [class*="right floated"] {

@@ -1,3 +1,11 @@
+### Version 1.2.0 - December 08, 2014
+
+- **Item/Card** - Default link formatting inside element simplified to avoid adjusting other nested ``ui`` link styles
+
+### Version 1.0.1 - November 28, 2014
+
+- **Card/Item** - Fix generic link stylings erroneously affecting linked ui elements like buttons
+
 ### Version 1.0.0 - November 24, 2014
 
 - **List** - List item selectors are now more strict, list items must be immediate children of ``ui list`` or ``ui list list``

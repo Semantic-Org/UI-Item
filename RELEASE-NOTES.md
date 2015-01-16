@@ -1,3 +1,7 @@
+### Version 1.5.0 - December 30, 2014
+
+- **Dropdown** - New setting ``allowCategorySelection`` lets menu items with sub menus be selected. Added example in docs.
+
 ### Version 1.2.0 - December 08, 2014
 
 - **Item/Card** - Default link formatting inside element simplified to avoid adjusting other nested ``ui`` link styles

@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-=======
+### Version 1.8.0 - January 23, 2015
+
+- **Dropdown** - Dropdown no longer will not show menu when no `item` are present in menu. Dropdown will now only filter results for `ui search dropdown` #1632 **Thanks PSyton**.
+- **Dropdown** - Fixed bug where link items would not open in sub-menus due to `event.preventDefault`
+- **List** - `relaxed list` and `very relaxed list` no longer add padding to child menu items
+
 ### Version 1.5.0 - December 30, 2014
 
 - **Dropdown** - New setting ``allowCategorySelection`` lets menu items with sub menus be selected. Added example in docs.
@@ -72,4 +76,3 @@
 
 - Adds horizontally padded, vertically padded menu item variations to allow menu items to remove padding
 - Connected items no longer assume 3 items per row
->>>>>>> d668621a53a73c870c6ce32c0d0dd39da3ffb7a4

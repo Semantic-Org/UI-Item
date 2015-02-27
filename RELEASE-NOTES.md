@@ -1,3 +1,8 @@
+### Version 1.10.3 - February 27, 2015
+
+- **Menu** - Fixes dropdown menu item not having a hover state inside inverted menu
+- **Search** - Fixes bug in category search causing item selection to sometimes produce a javascript error.
+
 ### Version 1.8.0 - January 23, 2015
 
 - **Dropdown** - Dropdown no longer will not show menu when no `item` are present in menu. Dropdown will now only filter results for `ui search dropdown` #1632 **Thanks PSyton**.

@@ -1,3 +1,7 @@
+### Version 1.11.3 - March 6, 2015
+
+- **Grid** - Fixed `right/left/center aligned` to adjust `align-items` in flex containers like `equal height/width`
+
 ### Version 1.11.0 - March 3, 2015
 
 - **Item ** - `img` inside of `ui item content` now do not receive size formatting by default

@@ -1,3 +1,23 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Dropdown** - Dropdown item `description` now are floated in default theme and should be included before other `item` content
+- **Menu** - Menu now uses flexbox. This allows menu items to match each others heights regardless of each items content size. `right menu` content should now follow other menu content instead of preceding it (no longer uses float).
+- **Item** - Items now uses `flexbox` for layout.
+- **Steps** - Steps no longer need `item count` and will automatically divide evenly
+- **Dropdown** - Added `disabled item` state, disabled items will automatically be skipped with keyboard selection
+- **Menu** - Fixed several inheritance issues for `dropdown item` inside `menu` appearing as `menu item`.
+- **Menu** - Menus items are now slightly more padded
+- **Menu** - The hover/active state of `dropdown item` have been adjusted to match `item`. Dropdown styles can be themed specifically inside `menu`.
+- **Dropdown** - Fixed dropdown menu items should not center inside of a center aligned container.
+- **Menu** - Fixes divider appears on last element of `(x) item menu`
+- **Menu** - Menu now has a `min-height` that matches standard item padding
+- **Menu** - `dropdown menu` in a `secondary pointing menu` or `tabular menu` now receive distinct active styling from other `active item`
+- **Sidebar** - Last menu item now has a border when sidebar and menu are used together
+- **Dropdown** - `item` `description` is now floated by default
+- **Item** - item `description` now longer sets a `max-width`
+- **Menu** - Active sub-menu items are now `bold`
+- **Menu** - Menus no longer have additional borders on `active item` in the default theme
+
 ### Version 1.11.3-4 - March 6, 2015
 
 - **Grid** - Fixed `right/left/center aligned` to adjust `align-items` in flex containers like `equal height/width`

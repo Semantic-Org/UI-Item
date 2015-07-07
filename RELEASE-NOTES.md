@@ -1,3 +1,7 @@
+### Version 2.0.1 - July 6, 2015
+
+- **Dropdown** - Dropdown will now show correctly when menu only includes a message with no other items
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Dropdown** - Dropdown item `description` now are floated in default theme and should be included before other `item` content

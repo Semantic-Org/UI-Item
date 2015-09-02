@@ -1,3 +1,17 @@
+#### Features
+
+- **Label** - Added `basic` label variation, useful for item counts
+- **Menu** - `inverted menu` now support `colored` individual items **Thanks @maturano** [#2850](https://github.com/Semantic-Org/Semantic-UI/issues/2850)
+
+#### Bugs
+
+- **Dropdown** - Fixed issue where selected item would not be shown when being re-shown after filtering with single search selection [#2824](https://github.com/Semantic-Org/Semantic-UI/issues/2824)
+- **Item** - Fixed `bottom aligned` not working in item due to incorrect flex value [#2826](https://github.com/Semantic-Org/Semantic-UI/issues/2826)
+- **Dropdown** - When `useLabels: false` placeholder text will now show up when 0 items selected, instead of the text "0 items selected"
+- **Menu** - `@pressedItemColor` has been renamed to `@pressedItemTextColor` to match naming conventions of other variables
+- **Menu** - Added `flex: 0 0 auto` to menu item to make sure menu do not collapse text content to reduce space
+- **Menu** - Fix text align on `dropdown item` inside `icon menu`
+
 ### Version 2.0.6 - July 22, 2015
 
 - **List**- Fixed issue where using an image variation like `ui image label` as a direct child of an `item` would remove right padding [#2691](https://github.com/Semantic-Org/Semantic-UI/issues/2691)

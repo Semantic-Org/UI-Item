@@ -1,3 +1,11 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Dropdown** - All dropdowns, not just `selection dropdown`, will now select the first `menu item` that starts with a pressed keyboard key, for example "N" will select "New"
+- **List** - `relaxed` and `very relaxed` lists included unnecessary padding on the first and last items [#3710](https://github.com/Semantic-Org/Semantic-UI/issues/3710)
+- **List** - Bullets would be affected by font weight, or whether the list item was a link [#3715](https://github.com/Semantic-Org/Semantic-UI/issues/3715) [#3721](https://github.com/Semantic-Org/Semantic-UI/issues/3721)
+- **List** - Divided lists had unnecessary padding on first and last items, in both horizontal and vertical layouts [#3710](https://github.com/Semantic-Org/Semantic-UI/issues/3710)
+- **Menu** -  `stackable` menu with `left/right` `menu` or `item` would incorrectly be floated when stacked. [#3604](https://github.com/Semantic-Org/Semantic-UI/issues/3604)
+
 #### Features
 
 - **Label** - Added `basic` label variation, useful for item counts

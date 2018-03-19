@@ -1,3 +1,7 @@
+### Version 2.3.1 - Mar 19, 2018
+
+- **Menu** - Fixes `disabled item` showing hover style for `secondary menu` **Thanks @tcmal** [#6268](https://github.com/Semantic-Org/Semantic-UI/issues/6268)
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Dropdown** - Improved spacing on `image` inside `menu item` and for selected `text`
